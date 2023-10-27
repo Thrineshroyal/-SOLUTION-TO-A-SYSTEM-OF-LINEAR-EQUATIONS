@@ -25,7 +25,7 @@ result=np.linalg.solve(A,B)
 print(result)
 ```
 ## Output:
-![OUTPUT](<linear equ.png>)
+![Alt text](<linear equ-1.png>)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
